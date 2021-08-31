@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Samotnosk
+- 👀 I’m interested in be a developer
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on simple projects
